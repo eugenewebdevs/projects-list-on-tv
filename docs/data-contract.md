@@ -20,6 +20,25 @@ Data struct placeholder
                 position: 1,
                 ibu: "100"
                 price: "",
+                size-price: [
+                    {
+                        size: 8,
+                        price: "$3.500"
+                    },
+                    {
+                        size: 12,
+                        price: "$3.500"
+                    },
+                    {
+                        size: 16,
+                        price: "$3.500"
+                    },
+                    {
+                        size: 20,
+                        price: "$3.500"
+                    },
+
+                ]
             },
             {
                 name: "beer-2":
