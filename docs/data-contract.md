@@ -2,9 +2,7 @@
 
 ## About
 
-
-
-Data struct placeholder
+Data struct placeholder. The current goal is based on displaying a dozen taps and some data on each.
 
 `{
     assets:{
