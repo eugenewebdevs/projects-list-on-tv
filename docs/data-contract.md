@@ -298,7 +298,6 @@ Data struct placeholder. The current goal is based on displaying a dozen taps an
                             size: 20,
                             price: "$3.50"
                         },
-
                     ]
             },
         ]
