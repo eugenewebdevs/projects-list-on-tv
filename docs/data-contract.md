@@ -300,7 +300,6 @@ Data struct placeholder
                             size: 20,
                             price: "$3.50"
                         },
-
                     ]
             },
         ]
