@@ -22,19 +22,19 @@ Data struct placeholder
                 size-price: [
                     {
                         size: 8,
-                        price: "$3.500"
+                        price: "$3.50"
                     },
                     {
                         size: 12,
-                        price: "$3.500"
+                        price: "$3.50"
                     },
                     {
                         size: 16,
-                        price: "$3.500"
+                        price: "$3.50"
                     },
                     {
                         size: 20,
-                        price: "$3.500"
+                        price: "$3.50"
                     },
 
                 ]
@@ -47,19 +47,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -72,19 +72,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -97,19 +97,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -122,19 +122,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -147,19 +147,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -172,19 +172,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -197,15 +197,15 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
@@ -222,19 +222,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -247,19 +247,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -272,19 +272,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
@@ -297,19 +297,19 @@ Data struct placeholder
                 size-price: [
                         {
                             size: 8,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 12,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 16,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
                         {
                             size: 20,
-                            price: "$3.500"
+                            price: "$3.50"
                         },
 
                     ]
